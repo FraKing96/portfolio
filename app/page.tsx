@@ -26,7 +26,7 @@ const skills = [
   },
   {
     title: "Database",
-    items: ["MySQL", "MongoDB"],
+    items: ["MySQL", "MongoDB"]
   },
 ];
 
