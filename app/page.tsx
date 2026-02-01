@@ -108,9 +108,6 @@ export default function Home() {
           <h2 className="text-2xl font-semibold">Esperienze e progetti principali</h2>
           <div className="grid gap-6">
             <div className="grid gap-2">
-              <h3 className="text-lg font-semibold text-zinc-800">
-                Esperienze lavorative
-              </h3>
               <div className="grid gap-5 text-sm text-zinc-600">
                 <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
                   <div className="font-semibold text-zinc-800">
