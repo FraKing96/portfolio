@@ -291,6 +291,11 @@ export default function Home() {
             </li>
           </ul>
         </section>
+
+        <section className="rounded-3xl border border-zinc-200 bg-white p-6 text-sm text-zinc-600 shadow-sm">
+          Autorizzo il trattamento dei miei dati personali presenti nel CV ai sensi 
+          del Decreto Legislativo 30 giugno 2003, n. 196 e del GDPR (Regolamento UE 2016/679)
+        </section>
       </main>
     </div>
   );
