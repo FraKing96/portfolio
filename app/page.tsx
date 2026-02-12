@@ -111,40 +111,37 @@ export default function Home() {
               <div className="grid gap-5 text-sm text-zinc-600">
                 <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
                   <div className="font-semibold text-zinc-800">
-                    2015 — Junior Developer, Clevermind Srl
+                    2025–2026 — Senior Software Engineer, Overclouds Srl
                   </div>
                   <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo di portale web in HTML / CSS / JavaScript
-                      (jQuery) per la gestione dei consumi di un impianto
-                      sciistico a Marilleva.
+                      Sviluppo portale camminatametabolica.it (React.js +
+                      Node.js) per gestione attività sportive, eventi e
+                      abbonamenti ai corsi.
+                    </li>
+                    <li>
+                      Sviluppo portale per Colibri System S.p.A. per gestione
+                      ordini dei distributori e delle attività con i rispettivi
+                      agenti.
                     </li>
                   </ul>
                 </div>
 
                 <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
                   <div className="font-semibold text-zinc-800">
-                    2016 — Junior Developer, Clevermind Srl
+                    2022–2025 — Senior Developer, Clevermind Srl
                   </div>
                   <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo di landofmedia.com in HTML / CSS / JavaScript
-                      (jQuery) con backend PHP per un&apos;agenzia di marketing
-                      digitale che noleggia PDF relativi a diverse nazioni.
+                      Sviluppo portale web per Autochim Srl (Aurelia + Node.js)
+                      per gestione ordini clienti, assegnazione autisti,
+                      giornate lavorative, integrazioni con altri portali e
+                      tracking in tempo reale di veicolo e carico.
                     </li>
-                  </ul>
-                </div>
-
-                <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
-                  <div className="font-semibold text-zinc-800">
-                    2017–2020 — Senior Developer, Clevermind Srl
-                  </div>
-                  <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo di un portale web in HTML / CSS / JavaScript
-                      (jQuery) con backend PHP per Techem Srl: gestione commesse
-                      e ticket di assistenza tecnica legati a ripartitori di
-                      calore, valvole termostatiche e contatori d&apos;acqua.
+                      Sviluppo del portale proprietario TouchMyLink (Aurelia +
+                      Node.js) per contenuti personalizzati condivisibili via
+                      link, QR code o tag NFC.
                     </li>
                   </ul>
                 </div>
@@ -177,37 +174,40 @@ export default function Home() {
 
                 <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
                   <div className="font-semibold text-zinc-800">
-                    2022–2025 — Senior Developer, Clevermind Srl
+                    2017–2020 — Senior Developer, Clevermind Srl
                   </div>
                   <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo portale web per Autochim Srl (Aurelia + Node.js)
-                      per gestione ordini clienti, assegnazione autisti,
-                      giornate lavorative, integrazioni con altri portali e
-                      tracking in tempo reale di veicolo e carico.
-                    </li>
-                    <li>
-                      Sviluppo del portale proprietario TouchMyLink (Aurelia +
-                      Node.js) per contenuti personalizzati condivisibili via
-                      link, QR code o tag NFC.
+                      Sviluppo di un portale web in HTML / CSS / JavaScript
+                      (jQuery) con backend PHP per Techem Srl: gestione commesse
+                      e ticket di assistenza tecnica legati a ripartitori di
+                      calore, valvole termostatiche e contatori d&apos;acqua.
                     </li>
                   </ul>
                 </div>
 
                 <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
                   <div className="font-semibold text-zinc-800">
-                    2025–2026 — Senior Software Engineer, Overclouds Srl
+                    2016 — Junior Developer, Clevermind Srl
                   </div>
                   <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo portale camminatametabolica.it (React.js +
-                      Node.js) per gestione attività sportive, eventi e
-                      abbonamenti ai corsi.
+                      Sviluppo di landofmedia.com in HTML / CSS / JavaScript
+                      (jQuery) con backend PHP per un&apos;agenzia di marketing
+                      digitale che noleggia PDF relativi a diverse nazioni.
                     </li>
+                  </ul>
+                </div>
+
+                <div className="grid gap-2 rounded-2xl border border-zinc-100 bg-zinc-50/60 p-4">
+                  <div className="font-semibold text-zinc-800">
+                    2015 — Junior Developer, Clevermind Srl
+                  </div>
+                  <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo portale per Colibri System S.p.A. per gestione
-                      ordini dei distributori e delle attività con i rispettivi
-                      agenti.
+                      Sviluppo di portale web in HTML / CSS / JavaScript
+                      (jQuery) per la gestione dei consumi di un impianto
+                      sciistico a Marilleva.
                     </li>
                   </ul>
                 </div>
@@ -220,7 +220,7 @@ export default function Home() {
           <h2 className="text-2xl font-semibold">Formazione</h2>
           <div className="flex flex-col gap-2">
             <p className="text-base font-medium">
-              Diploma scuola superiore presso ITIS G. Caramuel di Vigevano
+              Diploma scuola superiore presso ITIS G. Caramuel di Vigevano - Indirizzo informatica
             </p>
           </div>
         </section>
