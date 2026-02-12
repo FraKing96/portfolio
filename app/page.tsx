@@ -50,7 +50,7 @@ export default function Home() {
               >
                 fra.palmeri96@gmail.com
               </a>
-              <span>Via Nazario Sauro 12C, Tromello (automunito)</span>
+              <span>Via Filippo Corridoni 36, Rho (automunito)</span>
             </div>
           </div>
           <div className="relative h-36 w-36 overflow-hidden rounded-3xl border border-zinc-200 bg-white shadow-sm md:h-44 md:w-44">
