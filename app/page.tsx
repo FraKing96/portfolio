@@ -13,7 +13,7 @@ const skills = [
   },
   {
     title: "Frontend",
-    items: ["React", "React Native", "HTML / CSS / JavaScript"],
+    items: ["React", "React Native", "Next.js", "HTML", "CSS", "JavaScript"],
   },
   {
     title: "DevOps",
@@ -275,7 +275,7 @@ export default function Home() {
               <span className="font-medium text-zinc-800">Viaggiare:</span> viaggi
               in diverse città europee e internazionali, con tappe principali a
               Londra, Parigi, Giappone, Madeira (escursionismo), Gran Canaria e
-              Croazia.
+              New York.
             </li>
             <li>
               <span className="font-medium text-zinc-800">Sport:</span> palestra,
@@ -287,7 +287,7 @@ export default function Home() {
             </li>
             <li>
               <span className="font-medium text-zinc-800">Musica:</span>{" "}
-              ascolto attivo e partecipazione a concerti.
+              sia da ascoltare durante viaggi che partecipazione a concerti.
             </li>
           </ul>
         </section>
