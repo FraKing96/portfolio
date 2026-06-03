@@ -13,14 +13,14 @@ const skills = [
   },
   {
     title: "Frontend",
-    items: ["React", "React Native", "Next.js", "HTML", "CSS", "JavaScript"],
+    items: ["React", "React Native", "Next.js", "HTML", "SCSS", "CSS", "JavaScript", "Typescript"],
   },
   {
     title: "DevOps",
     items: [
       "Docker",
-      "CI/CD (GitHub Actions, GitLab, Gitea)",
-      "Vercel (deploy React / Next.js)",
+      "CI/CD (GitHub, GitLab, Gitea)",
+      "Deploy su Vercel",
       "Server Linux",
     ],
   },
@@ -237,35 +237,25 @@ export default function Home() {
         </section>
 
         <section className="grid gap-6 rounded-3xl border border-zinc-200 bg-white p-6 shadow-sm">
-          <h2 className="text-2xl font-semibold">Soft skill</h2>
+          <h2 className="text-2xl font-semibold">Soft skills</h2>
           <ul className="flex flex-col gap-3 text-sm text-zinc-600">
             <li>
-              <span className="font-medium text-zinc-800">Cliente:</span>{" "}
-              comunicazione diretta per analisi necessità, soluzioni tecniche e
-              gestione del progetto.
+              Comunicazione diretta per analisi necessità, soluzioni tecniche e gestione del progetto.
             </li>
             <li>
-              <span className="font-medium text-zinc-800">Team di sviluppo:</span>{" "}
-              confronto continuo per condividere idee e trovare soluzioni
-              efficienti e scalabili.
+              Confronto continuo per condividere idee e trovare soluzioni efficienti e scalabili.
             </li>
             <li>
-              <span className="font-medium text-zinc-800">Team di design:</span>{" "}
-              allineamento su decisioni UI/UX e modalità di implementazione delle
-              funzionalità.
+              Allineamento su decisioni UI/UX e modalità di implementazione delle funzionalità.
             </li>
             <li>
-              <span className="font-medium text-zinc-800">Collaborazioni esterne:</span>{" "}
-              supporto a sviluppatori terzi per integrazioni di componenti e
-              funzionalità su progetti esistenti.
+              Supporto a sviluppatori terzi per integrazioni di componenti e funzionalità su progetti esistenti.
             </li>
             <li>
-              <span className="font-medium text-zinc-800">Qualità:</span>{" "}
-              attenzione ai dettagli e code review sui vari progetti.
+              Attenzione ai dettagli e code review sui vari progetti.
             </li>
             <li>
-              <span className="font-medium text-zinc-800">Adattabilità:</span>{" "}
-              apprendimento rapido di nuove tecnologie e framework.
+              Apprendimento rapido di nuove tecnologie e framework.
             </li>
           </ul>
         </section>
