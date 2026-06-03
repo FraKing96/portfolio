@@ -57,8 +57,10 @@ export default function Home() {
             <Image
               src="/image.jpg"
               alt="Foto profilo di Francesco Palmeri"
-              fill
-              className="object-cover"
+              // fill
+              width={500}
+              height={500}
+              objectFit="cover"
               priority
             />
           </div>
