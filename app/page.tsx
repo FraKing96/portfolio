@@ -135,13 +135,13 @@ export default function Home() {
                   </div>
                   <ul className="list-disc space-y-1 pl-5">
                     <li>
-                      Sviluppo portale web per Autochim Srl (Aurelia + Node.js)
+                      Sviluppo portale web per Autochim Srl (React.js + Node.js)
                       per gestione ordini clienti, assegnazione autisti,
                       giornate lavorative, integrazioni con altri portali e
                       tracking in tempo reale di veicolo e carico.
                     </li>
                     <li>
-                      Sviluppo del portale proprietario TouchMyLink (Aurelia +
+                      Sviluppo del portale proprietario TouchMyLink (React.js +
                       Node.js) per contenuti personalizzati condivisibili via
                       link, QR code o tag NFC.
                     </li>
